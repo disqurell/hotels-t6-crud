@@ -15,6 +15,6 @@ npm start
 |url|method|about|
 |---|------|-----|
 |/user/|POST|create new user|
-|/user/:id|GET|get user|
-|/user/:id|PUT|update user|
-|/user/:id|DELETE|delete new user|
+|/user/?id|GET|get user|
+|/user/?id|PUT|update user|
+|/user/?id|DELETE|delete new user|
